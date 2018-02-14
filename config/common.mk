@@ -113,12 +113,12 @@ PRODUCT_PACKAGES += \
     ntfsfix \
     ntfs-3g
 
-# Packages
+# Overlays
 PRODUCT_PACKAGES += \
-    DuiDarkTheme \
-    GBoardDarkTheme \
-    SettingsDarkTheme \
-    SystemDarkTheme
+    DuiDark \
+    GBoardDark \
+    SettingsDark \
+    SystemDark
 
 PRODUCT_PACKAGES += \
     charger_res_images
