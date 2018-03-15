@@ -102,6 +102,10 @@ PRODUCT_PACKAGES += \
     Launcher3Dark
 
 
+# Fonts
+PRODUCT_PACKAGES += \
+    TipsyFonts
+
 # Extra tools
 PRODUCT_PACKAGES += \
     openvpn \
