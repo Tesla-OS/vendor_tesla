@@ -3,7 +3,11 @@ PRODUCT_PACKAGES += \
     SystemDark \
     SettingsDark \
     DuiDark \
-    GBoardDark
+    GBoardDark \
+    SystemBlack \
+    SettingsBlack \
+    DuiBlack \
+    GBoardBlack
 
 # Accents colors
 PRODUCT_PACKAGES += \

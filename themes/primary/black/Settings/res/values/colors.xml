@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Condition and suggestion cards -->
+    <color name="condition_card_background">@*android:color/black</color>
+    <color name="suggestion_condition_background">@*android:color/black</color>
+    <color name="suggestion_tile_background">@*android:color/black</color>
+    <color name="suggestion_title_text_color">@*android:color/white</color>
+    <color name="suggestion_summary_text_color">@*android:color/white</color>
+    <color name="material_grey_300">@*android:color/black</color>
+
+    <!-- DU Tweaks -->
+    <color name="BottomBarBackgroundColor">@*android:color/black</color>
+    <color name="bottom_nav_text_icon_active">@android:color/white</color>
+    <color name="bottom_nav_text_icon_inactive">@*android:color/hint_foreground_light</color>
+
+    <!-- Color for the background of the shortcut icons.-->
+    <color name="shortcut_background">@*android:color/black</color>
+
+</resources>

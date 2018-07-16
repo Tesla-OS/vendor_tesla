@@ -21,6 +21,11 @@
     <string name="settings_overlay_dark">Settings primary theme: Dark</string>
     <string name="gboard_overlay_dark">GBoard primary theme: Dark</string>
 
+    <string name="system_overlay_black">System primary theme: Black</string>
+    <string name="dui_overlay_black">DuiDialogs primary theme: Black</string>
+    <string name="settings_overlay_black">Settings primary theme: Black</string>
+    <string name="gboard_overlay_black">GBoard primary theme: Black</string>
+
     <!-- Accent colors -->
     <string name="accent_color_amber">System theme: Amber</string>
     <string name="accent_color_black">System theme: Black</string>
