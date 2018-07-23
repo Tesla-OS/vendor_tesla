@@ -1,3 +1,3 @@
-. "$(gettop)/vendor/gzosp/build/envsetup.sh"
+. "$(gettop)/vendor/tesla/build/envsetup.sh"
 
-gzosp_device_combos
+tesla_device_combos
