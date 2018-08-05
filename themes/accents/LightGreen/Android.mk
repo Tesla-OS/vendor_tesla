@@ -9,7 +9,7 @@ LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := false
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    vendor/tipsy/themes/common/res
+    vendor/tesla/themes/common/res
 
 LOCAL_AAPT_FLAGS := \
     --auto-add-overlay

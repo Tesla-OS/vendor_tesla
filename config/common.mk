@@ -114,7 +114,7 @@ PRODUCT_PACKAGES += \
     ntfs-3g
 
 # Themes
-include vendor/tipsy/config/themes.mk
+include vendor/tesla/config/themes.mk
 
 PRODUCT_PACKAGES += \
     charger_res_images
