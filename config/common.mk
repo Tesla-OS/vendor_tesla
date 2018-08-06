@@ -104,7 +104,7 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    TipsyFonts
+    TeslaFonts
 
 # Extra tools
 PRODUCT_PACKAGES += \

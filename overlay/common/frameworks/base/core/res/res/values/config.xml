@@ -87,7 +87,7 @@
 
     <!-- System font packages (overlay in vendor) -->
     <string-array name="config_fontPackages" translatable="false">
-        <item>com.tipsy.fonts</item>
+        <item>com.tesla.fonts</item>
     </string-array>
 
 </resources>
